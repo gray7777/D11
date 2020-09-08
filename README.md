@@ -1,3 +1,7 @@
 # wiryajaya (frontend-d)
 # Bantu nilai website saya kak
-# note : jika gambar tidak muncul, pastikan ekstak file gambar.rar
+# note : 
+1. download file.rar
+2. ekstak filenya
+3. buka file index.html di browser
+4. boom
